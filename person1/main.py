@@ -1,3 +1,6 @@
+# Новая функциональность от dev3
+print("Начало программы от разработчика 3")
+
 from utils import read_data
 
 if __name__ == "__main__":
