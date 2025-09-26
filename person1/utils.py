@@ -4,3 +4,7 @@ def read_data():
             return file.read()
     except FileNotFoundError:
         return "Файл не найден"
+
+# Новая функция от dev2
+def process_data(text):
+    return text.upper()
