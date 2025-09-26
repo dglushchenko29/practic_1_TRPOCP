@@ -1,1 +1,2 @@
 Hello from Person1
+New line added by Person2!
